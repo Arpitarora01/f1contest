@@ -1,0 +1,6 @@
+a{
+    color: #4844b8;
+}
+nav>a:active{
+    color: red;
+}
